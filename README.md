@@ -28,13 +28,14 @@ For example
 # if you want to add restrictions on the penultimate 3 digits (you may want this if you know the birth city of the student),
 # you can use CBEGIN and CEND environment variables
 # this makes the search much faster in most cases
+
 ./find_EGN.sh 62285 m 19990101 19991231
 # output: 62285, sspetrov1 -> 9902167526
 ```
 
 
 ## Disclaimer
-This software was created only for fun and for educational purposes.
+This project was created only for fun and for educational purposes.
 
 I don't know (and I don't care) whether its use is legal or not.
 
