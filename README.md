@@ -1,6 +1,6 @@
 # EGN finder for Sofia University
 
-Finds the Unique citizenship number (Bulgarian: ЕГН/EGN) any Sofia University student given their faculty number.
+Finds the Unique citizenship number (Bulgarian: ЕГН/EGN) of any Sofia University student given their faculty number.
 
 The script abuses the information webpage https://cas.uni-sofia.bg/index.php.
 
