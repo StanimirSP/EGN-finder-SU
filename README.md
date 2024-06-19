@@ -8,7 +8,7 @@ As this is now public, the university may soon fix this exploit by removing the 
 or by adding rate limits or by some other way. Once that happens, it is very unlikely
 that I will try to provide fixes.
 
-# Building
+## Building
 Clone the repository and compile both cpp programs (with the appropriate names for the executables), e.g.
 ```
 git clone https://github.com/StanimirSP/EGN-finder-SU
@@ -17,7 +17,7 @@ g++ -O3 -std=c++20 EGN_generator/*.cpp -o egn_generator
 g++ -O3 -std=c++20 EGN_sort/*.cpp -o egn_sort
 ```
 
-# Usage
+## Usage
 ```
 ./find_EGN.sh <fn> <gender: {m,f}> <birthdate range start> [<birthdate range end>]
 ```
