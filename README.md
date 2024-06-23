@@ -13,8 +13,8 @@ Clone the repository and compile both cpp programs (with the appropriate names f
 ```
 git clone https://github.com/StanimirSP/EGN-finder-SU
 cd EGN-finder-SU
-g++ -O3 -std=c++20 EGN_generator/*.cpp -o egn_generator
-g++ -O3 -std=c++20 EGN_sort/*.cpp -o egn_sort
+g++ -O3 -std=c++20 generator/*.cpp -o egn_generator
+g++ -O3 -std=c++20 sorter/*.cpp -o egn_sort
 ```
 
 ## Usage
