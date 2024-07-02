@@ -30,7 +30,11 @@ For example
 # this makes the search much faster in most cases
 
 ./find_EGN.sh 62285 m 19990101 19991231
-# output: 62285, sspetrov1 -> 9902167526
+```
+produces the following output:
+
+```
+62285, sspetrov1 -> 9902167526
 ```
 
 
